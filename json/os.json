@@ -163,7 +163,7 @@
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayN.png",
           "description": "A Windows V2Ray client with GUI support.",
           "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
-          "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip"
+          "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64.zip"
         },
         {
           "name": "Nekoray",
