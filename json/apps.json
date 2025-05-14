@@ -41,7 +41,7 @@
     "downloadLinks": {
       "Windows": "https://github.com/2dust/v2rayN/releases/download/6.60/v2rayN-With-Core.zip"
     },
-    "ShowInMenu": true
+    "ShowInMenu": false
   },
   {
     "name": "Shadowrocket",
