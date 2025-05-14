@@ -41,7 +41,7 @@
     "downloadLinks": {
       "Windows": "https://github.com/2dust/v2rayN/"
     },
-    "ShowInMenu": false
+    "ShowInMenu": true
   },
   {
     "name": "Shadowrocket",
